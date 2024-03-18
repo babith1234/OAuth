@@ -1,0 +1,107 @@
+[{
+    "food_name": "Butter Chicken",
+    "description": "Creamy and aromatic chicken curry with butter and spices.",
+    "price": 12.99,
+    "image": "https://example.com/butter_chicken.jpg",
+    "category": "Non-Vegetarian"
+  },
+  {
+    "food_name": "Paneer Tikka Masala",
+    "description": "Grilled paneer cubes in a creamy tomato-based gravy.",
+    "price": 11.49,
+    "image": "https://example.com/paneer_tikka_masala.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "food_name": "Chicken Biryani",
+    "description": "Fragrant rice cooked with marinated chicken and aromatic spices.",
+    "price": 14.99,
+    "image": "https://example.com/chicken_biryani.jpg",
+    "category": "Non-Vegetarian"
+  },
+  {
+    "food_name": "Palak Paneer",
+    "description": "Soft paneer cubes cooked in a creamy spinach sauce.",
+    "price": 10.99,
+    "image": "https://example.com/palak_paneer.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "food_name": "Masala Dosa",
+    "description": "Thin rice crepes filled with spicy potato filling.",
+    "price": 8.99,
+    "image": "https://example.com/masala_dosa.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "food_name": "Rogan Josh",
+    "description": "Tender lamb cooked in a rich and aromatic tomato-based sauce.",
+    "price": 13.49,
+    "image": "https://example.com/rogan_josh.jpg",
+    "category": "Non-Vegetarian"
+  },
+  {
+    "food_name": "Chole Bhature",
+    "description": "Spicy chickpea curry served with deep-fried bread.",
+    "price": 9.99,
+    "image": "https://example.com/chole_bhature.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "food_name": "Samosa",
+    "description": "Crispy pastry filled with spiced potatoes and peas.",
+    "price": 2.49,
+    "image": "https://example.com/samosa.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "food_name": "Tandoori Chicken",
+    "description": "Marinated chicken roasted in a clay oven (tandoor).",
+    "price": 11.99,
+    "image": "https://example.com/tandoori_chicken.jpg",
+    "category": "Non-Vegetarian"
+  },
+  {
+    "food_name": "Aloo Gobi",
+    "description": "Potato and cauliflower cooked with Indian spices.",
+    "price": 9.49,
+    "image": "https://example.com/aloo_gobi.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "food_name": "Pani Puri",
+    "description": "Crunchy hollow shells filled with spicy tangy water and potatoes.",
+    "price": 5.99,
+    "image": "https://example.com/pani_puri.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "food_name": "Fish Curry",
+    "description": "Fish cooked in a spicy and tangy coconut-based gravy.",
+    "price": 12.49,
+    "image": "https://example.com/fish_curry.jpg",
+    "category": "Non-Vegetarian"
+  },
+  {
+    "food_name": "Dal Makhani",
+    "description": "Creamy lentil curry cooked with butter and cream.",
+    "price": 10.49,
+    "image": "https://example.com/dal_makhani.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "food_name": "Mutton Korma",
+    "description": "Tender mutton cooked in a rich and creamy cashew-based gravy.",
+    "price": 15.49,
+    "image": "https://example.com/mutton_korma.jpg",
+    "category": "Non-Vegetarian"
+  },
+  {
+    "food_name": "Gulab Jamun",
+    "description": "Deep-fried milk solids soaked in sugar syrup.",
+    "price": 6.49,
+    "image": "https://example.com/gulab_jamun.jpg",
+    "category": "Dessert"
+  }]
+
+

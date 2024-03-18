@@ -1,0 +1,10 @@
+<!-- EJS Template -->
+
+<form action="http://localhost:5000/verify-otp" method="POST">
+  <label for="otp">Enter OTP:</label>
+  <input type="text" id="otp" name="otp" />
+
+  <input type="hidden" id="email" name="email" value="<%= email %>" />
+
+  <button type="submit">Verify OTP</button>
+</form>

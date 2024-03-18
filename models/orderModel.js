@@ -14,6 +14,10 @@ const orderSchema = new mongoose.Schema({
   },
   address: String, 
   paymentMode: String,
+  status:{
+    type:String,
+    enum:['pending','cancelled','confirmed']
+  }
 });
 
 module.exports = mongoose.model("Order", orderSchema);
